@@ -1,12 +1,3 @@
----
-title: Friut Detection, Tracking and Counting
-date: 2019-07-11 23:29:45
-tags:
-      - Computer Vision
----
-
-
-
 # Overview
 ---------------------------------------------
 This project is designed to do fruit detection, traking and counting. Videos are already provided.
