@@ -60,5 +60,5 @@ We used Transfer Learning, Alexnet network, Faster-RCNN, Kalman filtert, and oth
 
 # References:
 
- [1]Motion-Based-Multiple-object-tracking, https://www.mathworks.com/help/vision/examples/motion-based-multiple-object-tracking.html
+ [1]Motion-Based-Multiple-object-tracking, https://www.mathworks.com/help/vision/examples/motion-based-multiple-object-tracking.html </br>
  [2] A. Krizhevsky, I. Sutskever and G. Hinton, "ImageNet classification with deep convolutional neural networks," Communications of the ACM, vol.60, (6), pp. 84-90, 2017. . DOI: 10.1145/3065386.
