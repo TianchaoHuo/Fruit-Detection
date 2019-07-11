@@ -9,11 +9,11 @@ Co-Author: Chaohuo Wu, Xiaochen Liu, Do Kyoun Lee
 
 # Objectives
 ---------------------------------------------
- 1 . Read in a video clip, and display the video frame by frame,
- 2 . Detect all lemons and bananas in each frame, segment the corresponding pixel regions, count the number of pixels, draw a bounding box on these detected fruits.
- 3 . Track the detected oranges and bananas in the entire video sequence, until they disappear.
- 4 . Count the number of fruits of each type, and update the counting result in real-time.
- 5 . At the end of each video clip, report the success rate of your program.
+ 1. Read in a video clip, and display the video frame by frame,
+ 2. Detect all lemons and bananas in each frame, segment the corresponding pixel regions, count the number of pixels, draw a bounding box on these detected fruits.
+ 3. Track the detected oranges and bananas in the entire video sequence, until they disappear.
+ 4. Count the number of fruits of each type, and update the counting result in real-time.
+ 5. At the end of each video clip, report the success rate of your program.
 
 
 
