@@ -25,13 +25,13 @@ Open the video named 'Test.mp4'. This is the one of the testing video.
 
 # Step
 ---------------------------------------------
-1 . DownLoad the project material from google driver. The link is: https://drive.google.com/open?id=1yQXSwYu-GljAxXZLB0YlPoV0lx7KVMPh
-2 . Open MATLAB software.
-3 . Decompress the 'project material.zip' and copy the 'fruitDetectionTrackingCounting.m' into the folder.
-4 . Change the path to the folder.
-4 . Load the 'pal2.mat' which contains the Faster RCNN detector.
-4 . Input 'global pal2' in command window.
-5 . Open and run the 'FruitDetectionTrackingCounting' script.
+1. DownLoad the project material from google driver. The link is: https://drive.google.com/open?id=1yQXSwYu-GljAxXZLB0YlPoV0lx7KVMPh
+2. Open MATLAB software.
+3. Decompress the 'project material.zip' and copy the 'fruitDetectionTrackingCounting.m' into the folder.
+4. Change the path to the folder.
+4. Load the 'pal2.mat' which contains the Faster RCNN detector.
+4. Input 'global pal2' in command window.
+5. Open and run the 'FruitDetectionTrackingCounting' script.
 
 - important: Before running the script, please make sure you have already input 'global pal2' in command window, otherwise an exception will occur</br>'function 'detect' for uint 8 variables are not defined.
 - Note: Since maximum size for submission files on wattle is 200MB, some large but important materials need to be download from goole driver.
