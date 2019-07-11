@@ -13,7 +13,6 @@ This project is designed to do fruit detection, traking and counting. Videos are
 
 Co-Author: Chaohuo Wu, Xiaochen Liu, Do Kyoun Lee
 
-Repo:
 <!--more-->
 
 
